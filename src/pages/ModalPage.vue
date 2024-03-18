@@ -37,7 +37,7 @@ const moveWindow = (ev: any) => {
 };
 
 const handleSendToBackgroundScript = async () => {
-  await $q.bex.send('to.background', { showModal: false });
+  await $q.bex.send('to.background', { open: false });
 };
 </script>
 <style lang="scss" scoped>

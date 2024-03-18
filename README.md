@@ -1,5 +1,7 @@
 # Popup with Modal Quasar Chrome Extension Example
 
+Docs used: https://github.com/quasarframework/quasar/blob/d4ce905398f883a77d1bdeaad621dfc15ee260a9/docs/src/pages/quasar-cli/developing-browser-extensions/types-of-bex.md
+
 To run the project in the local environment:
 
 - clone repository

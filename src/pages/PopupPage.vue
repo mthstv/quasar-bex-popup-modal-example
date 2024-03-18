@@ -15,7 +15,7 @@ import { useQuasar } from 'quasar';
 const $q = useQuasar();
 
 const handleSendToBackgroundScript = async () => {
-  await $q.bex.send('to.background', { showModal: true });
+  await $q.bex.send('to.background', { open: true });
 };
 </script>
 
