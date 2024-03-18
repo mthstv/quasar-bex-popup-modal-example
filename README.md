@@ -1,6 +1,4 @@
-# Modal Example Chrome Extension
-
-This is just an example Modal Chrome extension.
+# Popup with Modal Quasar Chrome Extension Example
 
 To run the project in the local environment:
 
