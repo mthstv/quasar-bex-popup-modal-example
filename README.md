@@ -10,3 +10,7 @@ To run the project in the local environment:
 
 To test the chrome extension it will be necessary to open google chrome on the extension section and enable development mode. After that, **unpack and load** the folder
 **dist/bex**.
+
+Issue related: https://github.com/quasarframework/quasar/issues/17015
+
+Solution: https://github.com/quasarframework/quasar/issues/17015#issuecomment-2016111567
